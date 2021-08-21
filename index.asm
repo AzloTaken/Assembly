@@ -15,5 +15,5 @@ _start:
     int 0x80
 
 section .data:
-    message: db "Hello, Azlo!", 0xA
+    message: db "Hello, World!", 0xA
     message_length equ $-message
