@@ -1,2 +1,2 @@
 # Assembly
-Basic assembly script
+Basic "Hello, World" assembly script
